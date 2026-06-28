@@ -1,17 +1,49 @@
-# React + Vite
+# Blog Preview Card
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A responsive, component-driven Blog Preview Card built with React and Tailwind CSS. This project focuses on clean architecture by breaking down a UI design into modular, reusable components.
 
-Currently, two official plugins are available:
+## 🚀 Built With
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* **React JS** - For building the user interface using a component-based architecture.
+* **Tailwind CSS** - For rapid, utility-first styling and responsive design.
 
-## React Compiler
+## ✨ Project Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **Component-Based Architecture:** The card UI is divided into multiple, manageable React components to keep the codebase clean, readable, and highly reusable.
+* **Responsive Design:** Fully responsive layout that adapts seamlessly to different screen sizes using Tailwind's utility classes.
+* **Clean Code Practices:** Focused on writing maintainable and scalable frontend code.
 
-## Expanding the Oxlint configuration
+## 🛠️ Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+To get a local copy up and running, follow these simple steps:
 
+### Prerequisites
+Make sure you have Node.js installed on your machine.
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Lord-DG-003/Blog_Preview_Challenge.git
+   ```
+2. Navigate to the Project Directory:
+   ```bash
+   cd Blog_Preview_Challenge
+   ```
+3. Install the dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+## 🔗 Links
+
+* Live Site URL: https://blog-preview-challenge-seven.vercel.app/
+* Solution URL: https://github.com/Lord-DG-003/Blog_Preview_Challenge
+
+## 👤 Author
+
+* GitHub - [@Lord-DG-003](https://github.com/Lord-DG-003)
